@@ -1,3 +1,8 @@
+// Time Complexity: O(h) where h is the height of the binary search tree
+// Space Complexity: O(h) for the stack used in the depth-first search
+// Were you able to solve the problem on Leetcode?: Yes
+// Did you face any challenges while solving the problem? No
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
